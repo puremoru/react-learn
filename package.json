@@ -1,0 +1,14 @@
+{
+  "name": "react-learn",
+  "version": "1.0.0",
+  "description": "for learning React.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kaibuki0315",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^17.0.1"
+  }
+}
